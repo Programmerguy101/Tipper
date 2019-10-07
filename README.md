@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![](Ios Tip Calculator.gif)
+<img src='https://github.com/Programmerguy101/Tipper/blob/master/Ios%20Tip%20Calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
